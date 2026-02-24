@@ -177,3 +177,7 @@ http://your-ec2-public-ip:8080/manager/html
 ## Author
 
 Hanzala Israr  
+
+
+
+<img width="1855" height="1111" alt="image" src="https://github.com/user-attachments/assets/7e9ffcca-55cc-4667-b22f-28ed8e5d3e74" />
