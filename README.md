@@ -177,5 +177,3 @@ http://your-ec2-public-ip:8080/manager/html
 ## Author
 
 Hanzala Israr  
-BS Computer Science – 4th Semester  
-DevOps Bootcamp Student
